@@ -1,0 +1,48 @@
+Professor Virgilio Leandro
+
+e-mail: virgilio.leandro@estacio.br
+
+Formação:
+Especialista em redes de computadores
+
+- Comutação - Switching;
+- Roteamento - Arquitetura TC/ IP
+- Telecomunicações 
+- Eletrônica
+
+
+--------------Avaliações--------------
+
+AV1 - 09/10/2020
+AV2 - 27/11/2020
+AV3 - 11/12/2020
+
+----------Aulas-------
+- Agosto: 28
+- Setembro: 04, 44, 18, 25
+- Outubro: 02, 09, 16, 23, 30
+- Novembro: 06, 13, 20, 27
+- Dezembro: 04, 11, 18;
+
+---------------------Sumário 
+
+- Terminologia de redes
+- Largura de Banda
+- Modelos de Redes
+
+
+***********    Terminologia de redes{
+    REDES DE DADOS;
+    HISTÓRIOA DAS REDES;
+    DISPOSITIVOS DE REDE;
+    TOPOLOGIAS DE REDE;
+    PROTOCOLOS DE REDE;
+    REDES LOCAIS (LANs);
+    REDES DE LONGA DISTÂNCIA (WANs);
+    REDES DE ÁREAS METROPOLITANAS(MANs);
+    STORAGE-AREA NETWORK (VPN);
+    VANTAGENS DAS VPNs
+    INTRANETS E EXTRANETS;
+}
+
+**********

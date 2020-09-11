@@ -1,1 +1,10 @@
-Resumo aula 1
+INTERNET CHEGOU NO BRASIL EM 1994.
+
+Primeira forma de comunicação(>1994): Cominucação serial.
+
+----------REDES DE DADOS
+
+IEEE - INSTITUTO DE ENGENHEIROS ELETRONICOS E ELETRICISTAS Desenvolveram um padrão IEEE 802.3. Computadores interligados por um hub.
+
+
+Mainframe: Computador de grande porte dedicado normalemten ao processamento de um volume enorme de informações. O termo mainframe era utilizado para se referir ao gabinete principal que alojava a unidade de processamento nos primeiros computadores.
