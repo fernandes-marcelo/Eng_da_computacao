@@ -1,0 +1,31 @@
+Determinação da pureza de uma substância.
+    Sabemos que misturas homogêneas apresentam apneas uma fase em toda sua extensão. Assim, não conseguiríamos distinguir uma mistura homogênea de uma substância pura apenas pela cor. Por exemplo, uma mistura contendo água e álcool apresentam a mesma cor da água pura.
+    A dureza também não é indicada, uma vez que misturas podem apresentar a mesma dureza de uma substância pura. Por exemplo, uma mistura de sssal de cozinha (NaCl) e água (uma solução) apresenta praticamente a mesma dureza de uma amostra contendo apenas água.
+    -- O ponto de fusão, que  é a temperatura em que há a mudança do estado sólido para o líquido, é uma propriedade indicada. Pois sabemos que substâncias puras mudam do estado sólido para o líquido em temperatura constante.
+    --Entretanto, algumas misturas, chamadas de misturas eutéticas, também apresentam ponto de fusão constante. Sendo assim, a densidade pode ser utilizada para complementar a análise. Pois, a densidade de uma mistura eutética será diferente de qualquer um dos seus componentes.
+
+
+    RESUMO: Ponto de fusão e densidade são propriedades indicadas para verificar se é pura uma certa amostra sólida de uma substância.
+
+    -----------------------------------------------
+
+    Pontos principais da teoria atômica de Dalton:
+    - foi a primeira tentativa completa de descrever toda a matéria em termos de átomos e suas propriedades.
+    - Dalton baseou sua teoria na LEI DA CONSERVAÇÃO DAS MASSAS e na LEI DAS PROPORÇÕES CONSTANTES.
+    - A primeira parte de sua teoria afirma que TODA A MATÉRIA É COMPOSTA POR ÁTOMOS, QUE SÃO INDIVISÍVEIS.
+    - A segunda parte da sua teoria diz que TODOS OS ÁTOMOS DE UM DETERMINADO ELEMENTO POSSUEM MASSA E PROPRIEDADES IDÊNTICAS.
+    - A terceira parte diz que COMPOSTOS SÃO COMBINAÇÕES DE DOIS OU MAIS TIPOS DIFERENTES DE ÁTOMOS.
+    - A quarta parte da teoria afirma que UMA REAÇÃO QUÍMICA É UM REARRANJO DE ÁTOMOS.
+    - Partes da teoria tiveram que ser modificadas com base na descoberta de partículas subatômicas e isótopos.
+    ----------------------------------------------------------------------------------------------
+
+Organização das famílias da tabela periódica:
+
+- Metais alcalinos - coluna 1 = Família 1A.
+- Metais alcalinos terrosos - coluna 2 = Família 2A.
+- Fampilia do Boro - coluna 13 = Família 3A.
+- Fampilia do Carbono - coluna 14 = Família 4A.
+- Família do nitrogênio - coluna 15 = Família 5A.
+- Calcogênios - coluna 16 = Família 6A.
+- Halogênios - coluna 17 = Família 7A.
+- Gases nobres - coluna 18 = Família 8A.

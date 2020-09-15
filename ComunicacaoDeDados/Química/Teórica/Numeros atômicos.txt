@@ -1,0 +1,20 @@
+O princípio da incerteza de WERNER HEISENBERG (1901-1976), criado em 1926, estabeleceu que não é possível calcular a posição e a velocidade de um elétron em um mesmo instante, ou seja, quanto maior for a precisão da determinação da medida posição do elétron, menor será a precisão da medida de sua velocidade e vice-versa.
+Por isso, os cientistas passaram a adotar o conceito de "orbital", que se refere à REGIÃO NO ESPAÇO AO REDOR DO NÚCLEO DO ÁTOMO ONDE É MAIOR A PROBABILIDADE DE SE ENCONTRAR DETERMINADO ELÉTRON. No modelo de orbitais, o elétron tem característica dual, is é, como onda-partícula que se desloca no espaço, mas que está dentro de uma região (orbital) ao redor do núcleo, como uma nuvem eletrônica. 
+Esse moviemnto do elétron passou a ser desscrito por ERWIN SCHRODINGER por meio de uma equação matemática que associava a natureza corpuscular do elétron, ou seja, sua natureza como partícula, sua energia, carga e massa. Durante o proceso algébrico da solução da equação de SCHRODINGER, surgiram natualmente códigos matemáticos relacionados com a energia do elétron, que são denominados de números quânticos, Exisem quatro números quânticos: número quântico principal (n), número quântico secundário ou azimutal (l), número quântico magnético (m ou ml) e número quântico spin (s ou ms).
+
+    1- Número quântico principal: Refere-se ao NÍVEL de energia do elétron.
+Para os elementos conhecidos até o momento, a quantidade máxima de níveis de energia são sete, sendo representados pelas letras K, L, M, N, O, P e Q, indo de camada mais próxima ao núcleo para a mais distante. Essas camadas correspondem respectivamente aos númeor s 1, 2, 3, 4, 5, 6 e 7.
+
+    2- Número quântico secundário ou azimutal: Refere-se ao subnível de energia do elétron.
+Os elétrons distribuem-se nas camadas eletrônicas de acordo com subníveis de energia, que são identificados pelas letras s, p, d e f, que aumentam de energia nessa ordem.
+
+    3- Número quântico magnético: Refere-se à orientação dos orbitais no espaço.
+* O orbital do tipo S possui forma esférica e, portanto, só há uma orientação possível para ele. Desse modo, só haverá um valor possível para o número quântico magnético, que será igual a 0.
+* O orbital do tipo P, existem três orientações espaciais possíveis, porque ele apresenta-se na forma de um duplo ovoide. Então para o subnível p, há três número magnéticos possíveis: -1, 0 e +1.
+* O orbital do tipo D, possui cinco orientações possíveis, sendo que o número magnético pode apresentar os seguintes valores: -2, -1, 0, +1 e +2.
+* O orbital do tipo F, possui sete orientações espaciais possíveis, sendo que o número magnético pode apresentar os seguintes valores: -3, -2, -1, 0, +1, +2 e +3.
+
+    4- Número quântico spin: Refere-se ao sentido da rotação do elétron.
+Dois elétrons conseguem ficar em um mesmo orbital e não se repelirem porque eles giram em sentidos opostos, o que causa uma força magnética de atração. Asssim, o magnetismo em razão do spin de um elétron é anulado pelo magnetismo do spin oposto, ficando um sistema estável. É por isso que cada orbital possui no máximo dois elétrons com spins opostos, que são simbolizados por setas. Isso é dito pelo PRINCÍÍO DA EXCLUSÃO DE PAULI. Por convenção, adotamos o seguinte: a seta para cima corresponde a ms = -1/2, e sseta para baixo corresponde a ms = +1/2.
+
+
