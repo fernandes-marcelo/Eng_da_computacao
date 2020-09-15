@@ -1,0 +1,6 @@
+Observação sobre o brModelo:
+
+- Os numericos nos atributos indicam o valor mínimo e máximo (nessa ordem) que esse atributo tem em relação ao outro.
+
+
+- relacionamentos podem ter atributos se for um caso de muitos para muitos.
