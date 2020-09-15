@@ -1,0 +1,35 @@
+Slide 3
+
+Cardinalidade de relacionamentos
+
+- Cardinalidade máxima: indica quantas vezess uma dada entidade poderá aparecer em um relacionamento.
+
+1 - 1       um-para-um
+1 - n       um-para-muitos
+n - 1       muitos-para-um
+n - n       muitos-para-muitos.
+
+Obs: Outra notação é usar uma (| para 1) e (< para n).
+
+- Cardinalidade mínima: Indica quantas vezes mínimo o relacionamento deve acontecer.(0 indica opcional, 1 indica mínimo).
+
+Auto relacionamento
+
+É quano uma entidade se relaciona com ela mesma.
+
+Ex: Uma pessoa joga xarez com uma pessoa.
+Ex2: Um empregado gerencia um empregado.
+
+-------------------------
+Atributo identificador (chave primária): PK é uma chave candidata escolhida como principal meio para identificar unicamente uma entidade.
+---------------------
+Grau de relacionamento: Número de ocorrências de entidades que participa de cada ocorrência do relacionamento.
+    - Binário: Envolve dois conjuntos de entidades. Cada ocorrência do relacionamento associa duas socorrências de entidades.
+    -Ternário: Envolve três conjuntos de entidades. Cada ocorrência do relacionamento associa três socorrências de entidades.
+---------------------
+********** Relacionamento um para muitos:
+Sempre que tiver esse tipo de relacionamento, quando converter do modelo conceitual para o lógico, o lado com N sempre terá que carregar a chave primária do outro lado. O lado com o N sempre será a entidade fraca.
+
+
+
+--------------- Generalização / Especialização
