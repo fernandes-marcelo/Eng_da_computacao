@@ -1,0 +1,130 @@
+Tipos de gramática
+- Gramática internalizada:
+    É o conjunto de regras que a criança internaliza durante o processo de aquisição da linguagem.
+
+Por que, por exemplo, uma criança fala “Eu já fazi” no lugar de “Eu já fiz”?
+
+Simples: porque ela ainda não conhece as exceções à regra de manutenção do radical do verbo nas conjugações.
+
+Se a criança diz “Eu já bebi” e “Eu já comi”, seguindo os radicais dos verbos BEBER e COMER, respectivamente, acrescidos de um [i] final, ela dirá “Eu já fazi” (FAZER).
+
+Isso significa que ela criou uma regra em que [i] seria uma forma de expressar o passado.
+
+- Gramática Normativa:
+    A gramática normativa é um conjunto de regras gramaticais que estabelece um padrão de linguagem, cujo emprego deve se adequar aos contextos formais de uso da língua.
+
+Na verdade, essa gramática indica a formalidade de uso da língua.
+
+
+
+
+        O estudo da gramática de uma língua divide-se em quatro partes, quais sejam:
+- Fonologia: que trata dos fonemas.
+
+- Morfologia: que trata das classes de palavras.
+
+- Sintaxe: que trata das funções e das relações das palavras nas sentenças.
+
+-Semântica: que t rata dos significados das palavras.
+
+
+
+        Tipos de frase
+
+    Nominal: aquela que não apresenta verbo.
+    Ex: Socorro! Uma barata!
+
+    Verbal: Também chamada de oração, trata-se daquela que possui verbo.
+    Ex: Vou socorrer você.
+
+    
+    
+                    Modo e tempos verbais
+
+--- MODO
+    - Indicativo: O conteúdo é tomado pelo falante como certo.
+    Ex: Acertei todas as questões da prova!
+    Eu não estudei nada!
+
+    - Subjuntivo: O conteúdo é tomado pelo falante como duvidoso.
+    Ex: Se eu souvesse que você tinha estudado...
+
+    - Imperativo: O conteúdo expressa uma ordem, uma súplica, um conselho. Além disso, ele pode ser:
+    Afirmativo -"vai se esqueceer"
+    Negativo - "Não vai se esquecer"
+
+--- TEMPO
+    - Presente: Aquele que indica o momento atual.
+    Ex: Você ESTÁ salvo!
+
+    - Passado ou pretérito: Aquele que é anterior ao momento em que se fala.
+    Ex: ACERTEI todas as questoês da prova!
+    Eu não ESTUDEI nada!
+
+    - Futuro: Aquele que é posterior ao momento que se fala.
+    Ex: A partir de hoje, MELHORARÁ seu desempenho,e a professora o APROVARÁ!
+
+--- NÚMERO
+    As formas verbais podem se apresentar no singular ou no plural.  “Acertei”, “estudamos”, “soubesse”, “tinha estudado”, “podia”, “estão”, “melhorará”, “aprovará”.
+
+--- Pessoa do discurso
+    1ª pessoa:(EU) ACERTEI todas as questôes.
+
+    2ª pessoa:(VOCÊ) Não vai se esquecer.
+
+    3ª pessoa: A partir de hoje, você melhorará seu desempenho, e a professora (ELA) o aprovará!
+
+
+
+    --- Em princípio e A princípio
+
+    Em princípio: na frase inicial; inicialmente. no proncípio.
+
+    A princípio: em tese; teoricamente.
+
+
+    ----------- Transitividade verbal:
+
+     - Transitivo indireto: Aqueles que exigem complemento preposicionado;
+
+     - Transitivo direto: Aquele que exige complemento sem preposição;
+
+     - Bitransitivo ou transitivo diretos e indiretos: Aqueles que exigem os dois tipos de complemento.
+
+
+
+     ----------Regência verbal
+    Em uma visão bem tradicional, a regência verbal é o estudo da relação de dependência entre os verbos e seus complementos
+    - Eu assisto o jogo. 
+        Nesta frase, temos o sentido de “prestar assistência, ajudar, socorrer”: usa-se sem preposição.
+
+    - Eu assisto ao jogo.
+        Já nesta, temos o sentido de “ver, presenciar” e, nesse caso, a preposição é obrigatória.
+
+    
+    Observe os significados do verbo assistir em relação a sua regência:
+
+    Assistir{
+        Transitivo direto: "prestar assistência, ajudar, acompanhar um doente"
+
+        Transitivo indireto: "presencia, ver, caber, pertender"
+
+        Intransitivo: "morar, residir" - pouco utilizado atualmenteS
+    }
+
+
+    Ex:
+    - lugar qualquer EM que não exista..
+    - A marca EM que todo mundo confia..
+    - Não pise NA grama.
+
+    Transitivo direto: Lembrar algo;
+    Transitivo indireto: lembrar-se de algo.
+ç
+    ----------Regência nominal
+    Assim como acontece com os verbos, os nomes também podem ser transitivos, ou seja, podem necessitar de complementos para que apresentem significação completa.
+
+    Ex: 
+    - Esse filme é IMPRÓPRIO PARA MENORES (IMPRÓPRIO para quem ?)
+    - Nossos pais estão CONTENTES POR VOCÊ (CONTENTES por quê / quem?)
+    - Os membros da diretoria votaram FAVORAVELMENTE AO PROJETO (FAVORAVELMENTE a quê ?)
