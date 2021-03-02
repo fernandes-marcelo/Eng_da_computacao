@@ -31,5 +31,4 @@ Grau de relacionamento: Número de ocorrências de entidades que participa de ca
 Sempre que tiver esse tipo de relacionamento, quando converter do modelo conceitual para o lógico, o lado com N sempre terá que carregar a chave primária do outro lado. O lado com o N sempre será a entidade fraca.
 
 
-
 --------------- Generalização / Especialização
